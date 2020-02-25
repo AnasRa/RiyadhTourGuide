@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Riyadh Tour Guide</string>
+    <string name="hotel">Hotel</string>
+    <string name="res">Restaurant</string>
+    <string name="todo">Things To Do</string>
+    <string name="site">Site</string>
+    <string name="phonNumber">009665354892</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
